@@ -1,4 +1,4 @@
-# 2_Multivariate_Regression_analysis
+# 2_Multivariate_Regression_Analysis
 Generalised code of thesis work to users own kinetic data and descriptor variables.
 
 ## Info
